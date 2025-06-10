@@ -1,13 +1,23 @@
 # Visualización de factores psicosociales en la motivación para la actividad física
 
-Este repositorio contiene el proyecto de visualización realizado con Tableau como parte de una práctica académica.
+Este repositorio forma parte del proyecto de visualización de datos correspondiente a la Parte II de la práctica académica.  
+El objetivo fue analizar cómo diferentes factores psicológicos, emocionales y fisiológicos se relacionan con la motivación para la actividad física.
 
-## Contenido
-- `data/`: Datos procesados en formato CSV.
-- `scripts/`: Código en Python utilizado para limpieza y transformación.
-- `screenshots/`: Capturas del dashboard en Tableau.
-- `README.md`: Esta documentación.
-- `LICENSE`: Licencia de uso.
+## ?? Objetivos del proyecto
+
+- Unificar datos de distintas fuentes (cuestionarios y dispositivos Fitbit).
+- Transformar los datos en un formato adecuado para visualización.
+- Crear un dashboard interactivo y accesible en Tableau Public.
+- Explorar relaciones entre motivación, personalidad, afecto, sueño y estrés.
+
+## ??? Estructura del repositorio
+
+```plaintext
+input/         ? Archivos CSV originales (encuestas, datos Fitbit).
+output/        ? Archivos procesados y listos para cargar en Tableau.
+scripts/       ? Código Python usado para limpieza y transformación.
+README.md      ? Este documento.
+LICENSE        ? Licencia de uso del repositorio (MIT por defecto).
 
 ## Enlaces
 - ?? Vídeo explicativo: [Enlace aquí](https://...)
