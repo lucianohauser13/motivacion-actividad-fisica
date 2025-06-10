@@ -11,7 +11,7 @@ Este repositorio contiene el proyecto de visualización realizado con Tableau com
 
 ## Enlaces
 - ?? Vídeo explicativo: [Enlace aquí](https://...)
-- ?? Dashboard interactivo: [Tableau Public](https://...)
+- ?? Dashboard interactivo: [Tableau Public](https://public.tableau.com/views/Visualizacindefactorespsicosocialesenlamotivacinparalaactividadfsica/Dashboard1)
 
 ## Licencia
 Distribuido bajo licencia MIT.
