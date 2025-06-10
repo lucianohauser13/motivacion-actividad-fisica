@@ -20,7 +20,7 @@ README.md      Este documento.
 LICENSE        Licencia de uso del repositorio (MIT por defecto).
 
 ## Enlaces
-- Vídeo explicativo: [Enlace aquí](https://...)
+- Vídeo explicativo: [Google Drive](https://drive.google.com/file/d/1CUc1xEcaFCBmJHGGJUjmwF07048QO4k8/view?usp=sharing)
 - Dashboard interactivo: [Tableau Public](https://public.tableau.com/views/Visualizacindefactorespsicosocialesenlamotivacinparalaactividadfsica/Dashboard1)
 
 ## Licencia
